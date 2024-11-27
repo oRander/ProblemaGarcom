@@ -32,6 +32,11 @@ O código atual é **sequencial**, o que significa que as operações são execu
 
 O código foi implementado usando a linguagem Python e a biblioteca Tkinter para criar a interface gráfica. O processo de movimentação do garçom e o cálculo da distância percorrida são feitos de maneira linear, sem utilização de threads ou multiprocessamento, o que caracteriza o código como sequencial.
 
+## Apresentação
+
+[Assista no YouTube](https://www.youtube.com/watch?v=pJ69EBeFQ-k))
+
+
 ## Conclusão
 
 O problema foi resolvido com sucesso de maneira sequencial, garantindo a funcionalidade esperada. Em um cenário real, onde a eficiência é fundamental, seria interessante considerar a implementação de paralelismo para simular múltiplos garçons ou otimizar os cálculos de movimentação. Abaixo estão as distâncias totais percorridas pelo garçom, dependendo do número de taças servidas:
