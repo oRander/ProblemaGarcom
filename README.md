@@ -34,7 +34,7 @@ O código foi implementado usando a linguagem Python e a biblioteca Tkinter para
 
 ## Apresentação
 
-[Assista no YouTube](https://www.youtube.com/watch?v=pJ69EBeFQ-k))
+[Apresentação em vídeo](https://www.youtube.com/watch?v=pJ69EBeFQ-k)
 
 
 ## Conclusão
